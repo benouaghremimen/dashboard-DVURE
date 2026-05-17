@@ -1,0 +1,1 @@
+{"version":3,"file":"update-room-status.dto.d.ts","sourceRoot":"","sources":["../../../src/reservations/dto/update-room-status.dto.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,qBAAqB,EAAE,MAAM,4BAA4B,CAAC;AAEnE,qBAAa,mBAAmB;IAE5B,iBAAiB,EAAG,MAAM,CAAC;IAG3B,MAAM,EAAG,qBAAqB,CAAC;IAI/B,YAAY,CAAC,EAAE,MAAM,CAAC;CACzB"}
